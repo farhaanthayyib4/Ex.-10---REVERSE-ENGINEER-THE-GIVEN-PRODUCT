@@ -33,10 +33,14 @@
 ## Input:
 
 ### Output:
+<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/bd1fbf95-5598-4628-bef6-ceccc942442e" />
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
-### Name:
-### Register Number:
+<img width="1001" height="706" alt="image" src="https://github.com/user-attachments/assets/375475e1-83a2-489a-b0f3-a506a8280bd1" />
+
+### Name: FARHAAN THAYYIB L
+### Register Number: 212225230069
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
